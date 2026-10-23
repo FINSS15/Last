@@ -8,8 +8,7 @@
     "type": "update",
     "id": "1",
     "text": "Importer akan diupdate malam ini pukul 20:00 WIB. Simpan pekerjaanmu.",
-    "at": "2026-10-21 20:00",
-    "until": "2026-10-21 22:00"
+    "at": "2026-10-21 20:00"
   },
   "whitelist": [
     {
@@ -25,8 +24,7 @@
     {
       "name": "WindCosmic43677",
       "id": 10351699002,
-      "key": "08ed839b8fef3bed4892d3db",
-      "trial": "365d"
+      "key": "08ed839b8fef3bed4892d3db"
     },
     {
       "name": "kam1kaze333",
